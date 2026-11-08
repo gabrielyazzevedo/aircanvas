@@ -1,4 +1,22 @@
+# Cache e arquivos compilados do Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Variáveis de ambiente
 .env
+.env.*
+
+# Configurações do editor
 .vscode/
+.idea/
+
+# Arquivos temporários
+*.log
+.DS_Store
