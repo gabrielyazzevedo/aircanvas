@@ -233,9 +233,7 @@ Uma janela chamada **AirCanvas** deverá abrir com a imagem da webcam. Teste os 
 
 O vídeo de demonstração apresenta a execução do AirCanvas e as funcionalidades implementadas para a C2: detecção da mão, desenho com pinça, troca de cores, limpeza por gesto e comportamento quando a mão sai do campo de visão.
 
-**Vídeo no YouTube:** [Assistir à demonstração do AirCanvas](COLE_AQUI_O_LINK_DO_VIDEO)
-
-> **Antes da entrega:** substitua `COLE_AQUI_O_LINK_DO_VIDEO` pela URL completa do vídeo publicado no YouTube. O vídeo de apresentação deve ter duração máxima de **3 minutos**, conforme as instruções da atividade.
+**Vídeo no YouTube:** [Assistir à demonstração do AirCanvas](https://youtu.be/RjjxEcW6hNY?is=8vj46hK0VfBi2bNV)
 
 ## 8. Possíveis evoluções para a C3
 
